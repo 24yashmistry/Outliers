@@ -12,4 +12,5 @@ It is removed using
 2. Capping
 
 In this notebook I have implemented all the methods of outlier detection and removal.
+
 Thank you!!
